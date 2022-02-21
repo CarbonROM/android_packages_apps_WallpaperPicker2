@@ -38,6 +38,7 @@ android_library {
         "kotlinx-coroutines-android",
         "kotlinx-coroutines-core",
         "libbackup",
+        "material-color-utilities",
         "SettingsLibCollapsingToolbarBaseActivity",
         "subsampling-scale-image-view",
         "SystemUISharedLib",
